@@ -170,4 +170,5 @@ public class Ventana extends JFrame implements Runnable {
             ex.printStackTrace(); // Imprimir traza de la excepción
         }
     }
+    //Esto es un mensaje cuidado
 }
