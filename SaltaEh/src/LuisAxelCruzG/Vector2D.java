@@ -9,7 +9,7 @@ package LuisAxelCruzG;
  * @autor axeli
  */
 public class Vector2D {
-
+//aca pondre otra cosa
     private double x, y; // Componentes x e y del vector
 
     /**
