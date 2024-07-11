@@ -63,7 +63,7 @@ public class Vector2D {
     /**
      * Establece la componente y del vector.
      * 
-     * @param y Nueva componente y del vector
+     * @param y Nueva componente y del vec
      */
     public void setY(double y) {
         this.y = y;
